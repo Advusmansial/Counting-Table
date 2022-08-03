@@ -1,0 +1,30 @@
+.input{
+background-color:rgb(200, 220, 236);
+font-size: xx-large;
+border-radius: 35px;
+border-color: blue;
+height:45px;
+width: 350px;
+}
+.center{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color:aquamarine;
+    background: size 200px;
+    height: 6.5in;
+    width: auto;
+}
+.btn{
+    background-color: rgb(51, 194, 182);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 25px;
+    font-size: large;
+    padding: 10px 25px 10px 25px;
+    margin-top: 1pc;
+
+}
+.btn:hover{
+background-color: red;
+font-size: larger;
+}
